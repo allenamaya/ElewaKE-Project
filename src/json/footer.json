@@ -1,0 +1,9 @@
+{
+    "headquarters": "The Promenade, 19 General Mathenge Rd Nairobi, Kenya",
+    "contact": {
+        "phone": "+254 78 92 27 755",
+        "email": "info@elewa.ke"
+    },
+    "brands": ["elewa", "italanta", "Venture labs"],
+    "privacy": ["Terms and conditions", "cookie preferences"]
+}
